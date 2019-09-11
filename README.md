@@ -88,7 +88,6 @@ const [numberState, setNumberState] = useState(numbers);
 
 
 
-
 **STEP 5 - (STRETCH)**
 It's time to start thinking about functionality. Before getting into this, let's try and plan out all the moving pieces you'll need.
 
